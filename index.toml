@@ -341,6 +341,10 @@ file = "config/xaeroworldmap.txt"
 hash = "caa3f3050c1306b0009c4980984f16f2a8393fd976c22358db590f2602ac0c0c"
 
 [[files]]
+file = "file.txt"
+hash = "f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2"
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
 hash = "2f3e35534bdc4c6e31a87b121f6b8e75373607707055210d906e34334f4c9b39"
 

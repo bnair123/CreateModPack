@@ -1,0 +1,13 @@
+name = "Create Modpack"
+author = "Bharath Nair"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0383d42c6a7fea986638866e4ce90e16aa25427932fefb45547126e757ccd8e0"
+
+[versions]
+forge = "47.3.6"
+minecraft = "1.20.1"

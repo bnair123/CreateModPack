@@ -1,0 +1,13 @@
+name = "Create: Dynamic Lights"
+filename = "create-dyn-light-forge1.20.1+1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e800a6a3b54275142b1520bbe94abfecb01a0620"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5662336
+project-id = 1076861

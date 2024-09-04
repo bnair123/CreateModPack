@@ -1,0 +1,13 @@
+name = "Accessories"
+filename = "accessories-neoforge-1.0.0-beta.30+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc82b217f3881cc6039fc1fb03ca39812f93c4a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654459
+project-id = 938917

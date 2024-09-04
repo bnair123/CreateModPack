@@ -1,0 +1,13 @@
+name = "Create: Oxidized"
+filename = "create_oxidized-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d626144a6a9ca87971647995fe942e78bbcea188"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4986573
+project-id = 953729

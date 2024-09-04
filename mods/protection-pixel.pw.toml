@@ -1,0 +1,13 @@
+name = "Create: Protection Pixel"
+filename = "protection_pixel-1.0.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e287d94eeed992d833667664d9fa96f65bbd9e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5668417
+project-id = 1023409

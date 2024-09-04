@@ -1,0 +1,13 @@
+name = "Saro´s Construction"
+filename = "Saros-Construction-Mod-1.20.1-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "565a19d441eea809cc49a07a4e9d362bbc0f8fed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654754
+project-id = 908736

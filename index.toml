@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -424,7 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
 metafile = true
 
 [[files]]
@@ -614,6 +619,16 @@ file = "mods/geckolib-forge-1.20.1-4.4.7.jar"
 hash = "ae7da8152c6f04767d2d6092db5fc85ca5985f47a3ce164869686a9373af4555"
 
 [[files]]
+file = "mods/iam-music-player.pw.toml"
+hash = "bf09f028c36be5cd718fac5c1bce7cabcdbf0f8c9210e25a8c81fa1461427634"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "b51267866a64a65b36dc723145f65fa5ee9596977b943fcea36e787c716abab6"
 metafile = true
@@ -713,6 +728,11 @@ hash = "9789c8c768a69d21a6655501bc64572befc811d6a24a29ea2f7e5bc7f38e7efd"
 metafile = true
 
 [[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "50e30d0f9c063b160b70692c5082df1a8d51fe51f87faea3cdafeccda94e7f4a"
+metafile = true
+
+[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "c01630e1905d58f000795304857205cc123abe3dad4183356690e106338ab0d6"
 metafile = true
@@ -780,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "2f3085d8ca835f6afecfd6978e5b20f0bd9beeb12a0902b5c01e12f8afa1ae96"
 metafile = true
 
 [[files]]

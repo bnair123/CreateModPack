@@ -418,6 +418,11 @@ hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "10bad34cd442b0778127d10ccd214768ae12741f4c0725eccb4f606f2298ba25"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "04272d7baf17a1bd0f791a2c2309d490b8952d58039b90b60182d2be2b85c3e7"
 metafile = true
@@ -730,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "50e30d0f9c063b160b70692c5082df1a8d51fe51f87faea3cdafeccda94e7f4a"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]

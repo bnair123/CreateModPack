@@ -658,6 +658,11 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/l2library.pw.toml"
+hash = "8ae7fec3cae64086060bb43daceaaadef2277c2e41fc3cbc5cb5575c2e547eb8"
+metafile = true
+
+[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
 metafile = true
@@ -713,6 +718,16 @@ hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
 metafile = true
 
 [[files]]
+file = "mods/milkmans-nukes.pw.toml"
+hash = "bdd8ccac22f52c7fbd6ed8c12ed15e2cdc3285bc1521c8ddfc746e62549327aa"
+metafile = true
+
+[[files]]
+file = "mods/modular-golems.pw.toml"
+hash = "b57d031cce2ac99931ddb5459921ce61c2c929ac9d52caba266b4d6b22db2eb7"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -743,8 +758,18 @@ hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
+metafile = true
+
+[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "c01630e1905d58f000795304857205cc123abe3dad4183356690e106338ab0d6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
 metafile = true
 
 [[files]]

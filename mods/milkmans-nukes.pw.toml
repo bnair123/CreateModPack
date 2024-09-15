@@ -1,0 +1,13 @@
+name = "Milkman's Nukes"
+filename = "NukeModV1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9arlIjN3/versions/PKK21wDv/NukeModV1.4.jar"
+hash-format = "sha1"
+hash = "6014835fff04d1a7f219120377f1a283f5a4ece3"
+
+[update]
+[update.modrinth]
+mod-id = "9arlIjN3"
+version = "PKK21wDv"

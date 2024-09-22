@@ -1,0 +1,13 @@
+name = "Create: Belgian Voxel Trains"
+filename = "Create-Belgian_Voxel_Trains-V1.3.1-MC1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mm3jDGdI/versions/oSHAELLk/Create-Belgian_Voxel_Trains-V1.3.1-MC1.20.1.jar"
+hash-format = "sha1"
+hash = "96b2f044205bb9a6c3e63d1018d6bb78ef469c91"
+
+[update]
+[update.modrinth]
+mod-id = "mm3jDGdI"
+version = "oSHAELLk"

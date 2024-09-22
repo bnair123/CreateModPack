@@ -458,6 +458,11 @@ hash = "9a2eae92b9633c9ca48bd3474c902e5de59719b6f0d3165b160cb7a98713137c"
 metafile = true
 
 [[files]]
+file = "mods/create-belgian-voxel-trains.pw.toml"
+hash = "791e604929a5b7096e41cc1bd58d955cd0663267c74337bcfce5fb4497937d72"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "16792c7a733a68d68b0854a7a247dcdb6fd5d13f76177c0c20cf5dd345a9c3fd"
 metafile = true
